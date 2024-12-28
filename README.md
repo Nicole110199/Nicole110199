@@ -46,7 +46,7 @@ Soy una aprendiz constante y disfruto mucho el proceso de aprender y construir a
 </span>
 
 ## Actividad en Github
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Nicole110199">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicole110199&show_icons=true&theme=shades-of-purple&line_height=27" alt="Nikko's github stats"/>
 </a>
 <a href="https://github.com/Nicole110199">
